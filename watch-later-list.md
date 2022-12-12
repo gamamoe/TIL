@@ -1,0 +1,5 @@
+- [Statistics for Biologists](https://www.nature.com/collections/qghhqm/pointsofsignificance)
+- [PyTorch AutoGrad Example](https://jrc-park.tistory.com/308)
+- [개발자 협업 업무가시성](https://taeho.io/pages/5d36a0ef-1e17-4957-b075-b5df5ffd9436)
+- [An Engineering Leader’s Job Search Algorithm](https://docs.google.com/document/d/19fr_36WOzKlq_zyGP2RdxMEsdNQMZdUqn1Vahncr2pY/edit?usp=sharing)
+- [Annotated PyTorch Implementation](https://nn.labml.ai/)
